@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" rx="20" fill="#DCEDFF"/>
+<rect x="10.8516" y="10.2754" width="18.2942" height="21.7817" rx="2" fill="#814743"/>
+<rect x="10.8516" y="9.47852" width="18.2942" height="21.7817" rx="2" fill="#EB934E"/>
+<rect x="12.8359" y="9.47852" width="14.3191" height="18.9806" fill="white"/>
+<path d="M15.2031 23.2268L16.0194 24.0432L17.4415 22.6211" stroke="#662E2B" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.2031 19.4944L16.0194 20.3107L17.4415 18.8887" stroke="#662E2B" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.2031 15.7639L16.0194 16.5803L17.4415 15.1582" stroke="#662E2B" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.5938 15.8652H23.7132" stroke="#662E2B" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.5938 19.5977H23.7132" stroke="#662E2B" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.5938 23.3281H23.7132" stroke="#662E2B" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.4688 9.47852H23.5341V10.6312C23.5341 11.1835 23.0864 11.6312 22.5341 11.6312H17.4688C16.9165 11.6312 16.4688 11.1835 16.4688 10.6312V9.47852Z" fill="#814743"/>
+<ellipse cx="19.9987" cy="8.85615" rx="0.912793" ry="0.912793" stroke="#814743" stroke-width="0.8"/>
+</svg>
